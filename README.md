@@ -1,8 +1,12 @@
 # 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
+
+### Name : Surendhar A
+### Reg. No. : 212222110049
+
 ## AIM :
 To write a PYTHON program for socket for HTTP for web page upload and download
-## Algorithm
 
+## Algorithm : 
 1.Start the program.
 <BR>
 2.Get the frame size from the user
@@ -15,6 +19,7 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 <BR>
 6.Stop the program
 <BR>
+
 ## Program 
 ```
 import socket
